@@ -1,0 +1,42 @@
+ body {
+text-align: center;
+background:#9CCC65
+} 
+
+h1 {
+  font-family: "Verdana", "Tahoma", "Impact", sans-serif;
+  color:#33691E;
+  
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  border: 5px solid black;
+}
+
+
+p {
+font-size: 125%;
+font-family: sans-serif;
+text-align: center;
+font-weight: bold;
+color: #33691E;
+text-decoration: underline;
+}
+
+blockquote{ text-indent: 25px;
+background:#FFF9C4;
+border: 5px solid #33691E;
+padding:15px;}
+
+ul {
+color:#33691E;
+background:#E6EE9C;
+border: 5px solid #33691E;
+padding: 25px;
+margin: 40px;
+text-align: left;
+}
